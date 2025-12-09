@@ -198,7 +198,7 @@ if current_line:
     lines.append(current_line)
 
 # Draw each line centered
-desc_y = galle_y + text_height + 30
+desc_y = galle_y + text_height + 60
 line_height = text_height + 10
 gold_color = (255, 204, 0)  # #FFCC00
 
